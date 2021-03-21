@@ -1,0 +1,6 @@
+{:server-type :ion
+ :region "<your-region>"
+ :system "<your-system-name>"
+ :creds-profile "<your-local-creds-profile>"
+ :endpoint "http://entry.<your-system-name>.<your-region>.datomic.net:8182"
+ :proxy-port 8182}

@@ -1,0 +1,5 @@
+{:server-type :ion
+ :region "<your-region>"
+ :system "<your-system-name>"
+ :endpoint "http://entry.<your-system-name>.<your-region>.datomic.net:8182"
+ }
